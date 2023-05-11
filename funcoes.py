@@ -221,7 +221,7 @@ def piada():
     Speaker("Vou fazer uma piada para alegrar seu dia, Toque Toque")
 
 def buscar_filme():
-    link = 'https://imdb-api.com/en/API/Top250Movies/k_hd9q4amm'
+    link = "Colocar a KEY da API aqui"
     i = randint(0, 249)
     
     requisicao = requests.get(link).json()

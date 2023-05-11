@@ -14,5 +14,5 @@ pip install opencv-contrib-python
 Para conseguir a key da API de clima basta entrar no site e se cadastrar
 https://openweathermap.org/
 
-Para conseguir a key da API de clima basta entrar no site e se cadastrar
+Para conseguir a key da API dos filmes basta entrar no site e se cadastrar
 https://developer.imdb.com/
